@@ -1,0 +1,10 @@
+{
+  "name": "PPL Planner",
+  "short_name": "PPL",
+  "description": "Push Pull Legs workout planner",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111318",
+  "theme_color": "#14b8a6",
+  "icons": []
+}
